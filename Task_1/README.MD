@@ -1,0 +1,2 @@
+Vì nhóm em sử dụng dataset của MNIST nên nó rất nặng (Khoảng 70000 ảnh cho train và test) nên nhóm em xin phép thầy cho nhóm em được tại dataset lên drive
+Link drive của dataset: https://drive.google.com/drive/folders/1iizjrdWQASM_h5fwJ57wnF8LU7LzAThq?usp=sharing
